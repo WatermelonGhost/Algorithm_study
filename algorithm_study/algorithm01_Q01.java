@@ -1,5 +1,5 @@
 
-public class algorithm01_Q1 {
+public class algorithm01_Q01 {
 
 	public static void main(String[] args) {
 		System.out.println(max4(3,4,5,6));

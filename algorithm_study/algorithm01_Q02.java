@@ -1,5 +1,5 @@
 
-public class algorithm01_Q2 {
+public class algorithm01_Q02 {
 	public static void main(String[] args) {
 		System.out.println(min3(9,8,7));
 	}

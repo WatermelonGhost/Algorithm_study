@@ -1,5 +1,5 @@
 
-public class algorithm01_Q3 {
+public class algorithm01_Q03 {
 	public static void main(String[] args) {
 		System.out.println(min4(1,2,3,4));
 	}

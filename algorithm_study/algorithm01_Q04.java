@@ -1,5 +1,5 @@
 
-public class algorithm01_Q4 {
+public class algorithm01_Q04 {
 	public static void main(String[] args) {
 		System.out.println(med3(4,2,3));
 	}
