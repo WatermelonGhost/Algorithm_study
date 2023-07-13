@@ -23,6 +23,7 @@ public class practice1_14 {
 				System.out.println();
 			}
 		}
+		
 		if(n%w != 0) {
 			System.out.println();
 		}
